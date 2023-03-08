@@ -15,5 +15,5 @@ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?st
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://www.stickpng.com/de/img/comics-und-fantasy/technologieunternehmen/miniaturansicht-des-qlik-logos" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://apps.apple.com/de/app/qlik-sense-client-managed/id1217049362" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
