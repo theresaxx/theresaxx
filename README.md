@@ -1,6 +1,6 @@
 ### Hey there 👋, I am Theresa. 
 
-# I am a Business Intelligence & Process Management Master Student from Berlin
+I am a Business Intelligence & Process Management Master Student from Berlin
 
 ---
 
